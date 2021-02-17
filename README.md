@@ -1,3 +1,7 @@
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rhudyemangoye/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/elsarhudye/)
+
 # Top-Movies-List
 
 Top 5 of higher-grossing movies. 
@@ -23,6 +27,4 @@ npm start
 ![Alt text](./github_media/img1.png?raw=true "Top Movies List project")
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rhudyemangoye/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/elsarhudye/)
+
